@@ -1,4 +1,4 @@
-# ledgerBot :money_with_wings: :credit_card: :book:
+# :money_with_wings::card_index_dividers:ledgerBot:card_index_dividers::money_with_wings:
 Web prices scrapper to make the monthly accounting with real values.
 
 ## FAQ
