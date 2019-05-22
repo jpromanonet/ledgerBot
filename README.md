@@ -12,3 +12,5 @@ The bot creates one .HTML file that contains the main interface with every loade
 I'm still working on this(Gonna edit later).
 
 ## Software Design
+
+![alt text](https://github.com/jpromanonet/ledgerBot/blob/master/ledgerBot.png)
